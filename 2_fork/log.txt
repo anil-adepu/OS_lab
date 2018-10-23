@@ -1,0 +1,10 @@
+ls
+ls
+ls
+ls -al
+!!
+!3
+ls
+ls
+ls
+!4
